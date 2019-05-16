@@ -1,0 +1,19 @@
+current directory: /Users/naitoemi/environment/sample_app/vendor/cache/ruby/2.5.0/gems/byebug-9.0.6/ext/byebug
+/Users/naitoemi/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20190516-65492-1ny2l6a.rb extconf.rb
+creating Makefile
+
+current directory: /Users/naitoemi/environment/sample_app/vendor/cache/ruby/2.5.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/naitoemi/environment/sample_app/vendor/cache/ruby/2.5.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/naitoemi/environment/sample_app/vendor/cache/ruby/2.5.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190516-65492-12a79hl/byebug
